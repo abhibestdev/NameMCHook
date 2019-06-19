@@ -1,0 +1,7 @@
+name: NameMCHook
+version: 0.3
+main: me.abhi.hook.Hook
+author: abhi
+commands:
+  checkvote:
+  vote:
